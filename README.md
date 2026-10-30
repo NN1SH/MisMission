@@ -1,6 +1,6 @@
 # MisMission
 Learn about unity and 2D
 
-# There are no sauce code in this repo
 
-But you still can download my game.
+**I put sauce code in these repo but there are no other material**
+And you can download and test this game.
